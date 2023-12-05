@@ -1,4 +1,4 @@
-package be.vdab.atbean;
+package be.vdab.atbean.kwadraat;
 
 public class KwadraatService {
     public int kwadraat(int getal){

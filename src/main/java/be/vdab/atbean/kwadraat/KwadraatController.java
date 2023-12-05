@@ -1,4 +1,4 @@
-package be.vdab.atbean;
+package be.vdab.atbean.kwadraat;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

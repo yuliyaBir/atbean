@@ -1,12 +1,12 @@
-package be.vdab.atbean;
+package be.vdab.atbean.woord;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class ServiceBeansConfiguration {
+public class WoordBeansConfiguration {
     @Bean
-    public KwadraatService kwadraat() {
-        return new KwadraatService();
+    WoordService woordService(){
+        return new WoordService();
     }
 }
